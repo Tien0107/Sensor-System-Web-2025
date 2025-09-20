@@ -1,0 +1,66 @@
+[{
+  "_id": {
+    "$oid": "67412b93982263207fd4c56a"
+  },
+  "name": "Phan Thi Tra My",
+  "email": "tramy@gmail.com",
+  "password": "123456789",
+  "workExperience": [],
+  "age": 31,
+  "role": "User"
+},
+{
+  "_id": {
+    "$oid": "674a6f4c7aa0774c7164afef"
+  },
+  "name": "Tien",
+  "email": "ngaogaming@gmail.com",
+  "password": "12345",
+  "workExperience": [],
+  "age": 20,
+  "role": "User"
+},
+{
+  "_id": {
+    "$oid": "67412b93982263207fd4c566"
+  },
+  "name": "Tra My",
+  "email": "tramy@gmail.com",
+  "password": "123456789",
+  "workExperience": [],
+  "age": 30,
+  "role": "User"
+},
+{
+  "_id": {
+    "$oid": "67412b93982263207fd4c568"
+  },
+  "name": "Nguyen Tra My",
+  "email": "nguyentramy@gmail.com",
+  "password": "123456789",
+  "workExperience": [],
+  "age": 35,
+  "role": "User"
+},
+{
+  "_id": {
+    "$oid": "67412b93982263207fd4c567"
+  },
+  "name": "Tra My 2",
+  "email": "tramy2@gmail.com",
+  "password": "123456789",
+  "workExperience": [],
+  "age": 20,
+  "role": "User"
+},
+{
+  "_id": {
+    "$oid": "67412b93982263207fd4c569"
+  },
+  "name": "Tran Thi Tra My",
+  "email": "trthtramy@gmail.com",
+  "password": "123456789",
+  "workExperience": [],
+  "age": 26,
+  "role": "User"
+}]

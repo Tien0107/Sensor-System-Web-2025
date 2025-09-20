@@ -1,0 +1,18 @@
+[{
+  "_id": {
+    "$oid": "67e4bc62d4dae188ad8d337e"
+  },
+  "name": "Đà Nẵng",
+  "location": "Miền Trung",
+  "devices": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67e4bc62d4dae188ad8d3380"
+  },
+  "name": "Quảng Nam",
+  "location": "Miền Trung",
+  "devices": [],
+  "__v": 0
+}]
